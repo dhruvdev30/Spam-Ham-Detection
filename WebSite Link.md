@@ -1,1 +1,1 @@
-(https://spam-ham-dev-shah.herokuapp.com/)
+https://spam-ham-dev-shah.herokuapp.com/
